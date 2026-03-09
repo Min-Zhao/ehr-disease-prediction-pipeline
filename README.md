@@ -1,6 +1,6 @@
 # Disease Prediction Modeling Pipeline using EHR Data
 
-An end-to-end machine learning pipeline for **binary disease prediction from Electronic Health Record (EHR) data**, using **superimposed preeclampsia (PE) in chronic hypertension pregnancies** as a case study.
+An end-to-end machine learning pipeline for **disease prediction from Electronic Health Records (EHRs)**, using **superimposed preeclampsia (PE) in chronic hypertension pregnancies** as a case study.
 
 > **Note:** This repository uses a **synthetic dataset** generated to mirror the structure of a real clinical cohort. No real patient data is included. Hospital names and identifiable information are de-identified.
 
